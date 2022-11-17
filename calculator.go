@@ -41,7 +41,7 @@ func modulo(a, b int)(int,error){
 }
 
 func main(){
-	a:=5.0
+	a:=5
 	b:=6.0
 	ch:="+"
 	fmt.Println(calculator(a,b,ch))
